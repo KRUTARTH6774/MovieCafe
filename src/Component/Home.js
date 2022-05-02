@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '../img.png'
+import img from '../svg/home.png'
 import { Link } from 'react-router-dom' 
 
 function Home() {
