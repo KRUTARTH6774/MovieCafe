@@ -8,18 +8,18 @@ import Login from "./Component/Login";
 import ResetPassword from "./Component/ResetPassword";
 import Signin from './Component/Signin';
 import SubmitOtp from "./Component/SubmitOtp";
-import { auth } from './firebase-config';
-import { signOut } from "firebase/auth";
+// import { auth } from './firebase-config';
+// import { signOut } from "firebase/auth";
 
 
 function App() {
   const [isAuth, setIsAuth] = useState(localStorage.getItem("isAuth"));
   const signoutUser = () => {
-    signOut(auth).then(() => {
+    // signOut(auth).then(() => {
       localStorage.clear();
       setIsAuth(false);
       window.location.pathname = "/LogIn";
-    })
+    // })
   }
   return (
     <Router>
