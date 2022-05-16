@@ -101,14 +101,15 @@ function Signin() {
             </div>
             <div style={{
               display: "flex",
-              justifyContent: "center"
+              justifyContent: "center",
+              alignItems :"baseline"
             }}>
               <h5 style={{
                 color: "#ffffff",
                 fontFamily: 'Inter',
                 fontStyle: "normal"
               }}>Already member ? </h5>
-              <Link to="/LogIn">Login</Link>
+              <Link to="/LogIn" style={{color: "#66afff"}}>Login</Link>
             </div>
 
           </div>

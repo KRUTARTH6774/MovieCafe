@@ -101,7 +101,7 @@ function Login({ setIsAuth }) {
                             justifyContent: "center",
                             marginTop: "1em"
                         }}>
-                            <Link to="/ForgetPassword">forget password</Link>
+                            <Link to="/ForgetPassword" style={{color: "#66afff"}}>forget password</Link>
                         </div>
 
                         <div className="form-group" style={{
@@ -121,14 +121,15 @@ function Login({ setIsAuth }) {
 
                         <div style={{
                             display: "flex",
-                            justifyContent: "center"
+                            justifyContent: "center",
+                            alignItems :"baseline"
                         }}>
                             <h5 style={{
                                 color: "#ffffff",
                                 fontFamily: 'Inter',
                                 fontStyle: "normal"
                             }}>New member ? </h5>
-                            <Link to="/SignIn">Signin</Link>
+                            <Link to="/SignIn" style={{color: "#66afff"}}>Signin</Link>
                         </div>
 
                     </div>
