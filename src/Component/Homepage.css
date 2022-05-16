@@ -97,3 +97,8 @@ h2, #sidebarButton .profile h4{
   opacity: 0.5;
   font-size: 3vh;
 }
+
+.scrolling-wrapper img{
+  width: 100%;
+  padding: 1%;
+}

@@ -74,7 +74,7 @@ function HomePage({signoutUser}) {
 
       <PopularReleases />
 
-      <SeriesYoullLove />
+      {/* <SeriesYoullLove /> */}
 
 
       {/* <h6>Bootstrap 4 horizontally scrollable card groups</h6> */}
