@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 function ContinueWatching() {
   return (
     <>
-      <h2>ContinueWatching</h2>
+      <h2>Continue Watching</h2>
       <div className="scrolling-wrapper" style={{ margin: "2% 2%" }}>
         <div className="card" style={{ width: "30rem", border: "none" }}>
           <Link to="">
