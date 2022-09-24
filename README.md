@@ -21,7 +21,7 @@ Providing such a platform with expanded functionality is the goal of our platfor
 
 
 1. Existing platforms appear to be user-centric in their development, but often include additional features that require subscriptions before consumers can utilise them.
-2. Our plaform enables user to be creator while being user at the same time.
+2. No option for creators' to upload their content and show their creativity.
 
 ## Motivation
 Sole motivation was to complete this as course project what-so-ever but our dedication to this was left alive! Hence, it is open for open-source contributions. 
