@@ -34,7 +34,7 @@ In production build.
 
 
 ## Code style
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard) [![Join the chat at https://gitter.im/MovieCafe/community](https://badges.gitter.im/MovieCafe/community.svg)](https://gitter.im/MovieCafe/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  
 ## Live Website
 You can find live website <a href="https://moviecafee.netlify.app/"> here</a>.
