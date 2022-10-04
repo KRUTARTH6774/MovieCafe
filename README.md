@@ -10,6 +10,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+### Join Community Room
+[![Gitter](https://badges.gitter.im/MovieCafe/community.svg)](https://gitter.im/MovieCafe/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 
 ## An Introduction
 OTT services like Netflix, Disney+Hotstar, and Hulu are now gaining popularity quickly. The Covid-19 epidemic let this site attract a large number of consumers. As a result, individuals now choose to watch content on OTT platforms first.
